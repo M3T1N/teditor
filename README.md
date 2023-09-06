@@ -9,6 +9,6 @@ TEDitor geliştirilirken kullandığım teknolojiler:
 - Vite
 - React
   - @fontsource/inter
-  - Codemirror
-  - HyperMD
+  - Milkdown
   - TailwindCSS
+  - Twemoji
